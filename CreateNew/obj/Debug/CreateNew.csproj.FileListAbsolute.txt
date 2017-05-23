@@ -1,0 +1,17 @@
+D:\mygit\spire.doc_5.9\Demos\CS\WinForms\01_Quick guide\CreateNew\bin\Debug\CreateNew.exe.config
+D:\mygit\spire.doc_5.9\Demos\CS\WinForms\01_Quick guide\CreateNew\bin\Debug\CreateNew.exe
+D:\mygit\spire.doc_5.9\Demos\CS\WinForms\01_Quick guide\CreateNew\bin\Debug\CreateNew.pdb
+D:\mygit\spire.doc_5.9\Demos\CS\WinForms\01_Quick guide\CreateNew\obj\Debug\CreateNew.csprojResolveAssemblyReference.cache
+D:\mygit\spire.doc_5.9\Demos\CS\WinForms\01_Quick guide\CreateNew\obj\Debug\CreateNew.Form1.resources
+D:\mygit\spire.doc_5.9\Demos\CS\WinForms\01_Quick guide\CreateNew\obj\Debug\CreateNew.Properties.Resources.resources
+D:\mygit\spire.doc_5.9\Demos\CS\WinForms\01_Quick guide\CreateNew\obj\Debug\CreateNew.csproj.GenerateResource.Cache
+D:\mygit\spire.doc_5.9\Demos\CS\WinForms\01_Quick guide\CreateNew\obj\Debug\CreateNew.exe
+D:\mygit\spire.doc_5.9\Demos\CS\WinForms\01_Quick guide\CreateNew\obj\Debug\CreateNew.pdb
+D:\mygit\spire.doc_5.9\Demos\CS\WinForms\01_Quick guide\CreateNew\bin\Debug\Spire.Doc.dll
+D:\mygit\spire.doc_5.9\Demos\CS\WinForms\01_Quick guide\CreateNew\bin\Debug\Spire.License.dll
+D:\mygit\spire.doc_5.9\Demos\CS\WinForms\01_Quick guide\CreateNew\bin\Debug\Spire.Pdf.dll
+D:\mygit\spire.doc_5.9\Demos\CS\WinForms\01_Quick guide\CreateNew\bin\Debug\Spire.Doc.xml
+D:\mygit\spire.doc_5.9\Demos\CS\WinForms\01_Quick guide\CreateNew\bin\Debug\Spire.License.xml
+D:\mygit\Spire.Doc\CreateNew\bin\Debug\CreateNew.exe.config
+D:\mygit\Spire.Doc\CreateNew\obj\Debug\CreateNew.exe
+D:\mygit\Spire.Doc\CreateNew\obj\Debug\CreateNew.pdb

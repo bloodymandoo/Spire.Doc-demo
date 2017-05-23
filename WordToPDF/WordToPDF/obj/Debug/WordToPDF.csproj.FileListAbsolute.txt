@@ -1,0 +1,14 @@
+D:\mygit\Spire.Doc\WordToPDF\WordToPDF\bin\Debug\WordToPDF.exe.config
+D:\mygit\Spire.Doc\WordToPDF\WordToPDF\bin\Debug\WordToPDF.exe
+D:\mygit\Spire.Doc\WordToPDF\WordToPDF\bin\Debug\WordToPDF.pdb
+D:\mygit\Spire.Doc\WordToPDF\WordToPDF\bin\Debug\Spire.Doc.dll
+D:\mygit\Spire.Doc\WordToPDF\WordToPDF\bin\Debug\Spire.License.dll
+D:\mygit\Spire.Doc\WordToPDF\WordToPDF\bin\Debug\Spire.Pdf.dll
+D:\mygit\Spire.Doc\WordToPDF\WordToPDF\bin\Debug\Spire.Doc.xml
+D:\mygit\Spire.Doc\WordToPDF\WordToPDF\bin\Debug\Spire.License.xml
+D:\mygit\Spire.Doc\WordToPDF\WordToPDF\obj\Debug\WordToPDF.csprojResolveAssemblyReference.cache
+D:\mygit\Spire.Doc\WordToPDF\WordToPDF\obj\Debug\WordToPDF.Form1.resources
+D:\mygit\Spire.Doc\WordToPDF\WordToPDF\obj\Debug\WordToPDF.Properties.Resources.resources
+D:\mygit\Spire.Doc\WordToPDF\WordToPDF\obj\Debug\WordToPDF.csproj.GenerateResource.Cache
+D:\mygit\Spire.Doc\WordToPDF\WordToPDF\obj\Debug\WordToPDF.exe
+D:\mygit\Spire.Doc\WordToPDF\WordToPDF\obj\Debug\WordToPDF.pdb

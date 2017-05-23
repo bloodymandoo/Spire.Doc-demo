@@ -1,0 +1,14 @@
+D:\mygit\Spire.Doc\WordToXML\WordToXML\WordToXML\bin\Debug\WordToXML.exe.config
+D:\mygit\Spire.Doc\WordToXML\WordToXML\WordToXML\bin\Debug\WordToXML.exe
+D:\mygit\Spire.Doc\WordToXML\WordToXML\WordToXML\bin\Debug\WordToXML.pdb
+D:\mygit\Spire.Doc\WordToXML\WordToXML\WordToXML\bin\Debug\Spire.Doc.dll
+D:\mygit\Spire.Doc\WordToXML\WordToXML\WordToXML\bin\Debug\Spire.License.dll
+D:\mygit\Spire.Doc\WordToXML\WordToXML\WordToXML\bin\Debug\Spire.Pdf.dll
+D:\mygit\Spire.Doc\WordToXML\WordToXML\WordToXML\bin\Debug\Spire.Doc.xml
+D:\mygit\Spire.Doc\WordToXML\WordToXML\WordToXML\bin\Debug\Spire.License.xml
+D:\mygit\Spire.Doc\WordToXML\WordToXML\WordToXML\obj\Debug\WordToXML.csprojResolveAssemblyReference.cache
+D:\mygit\Spire.Doc\WordToXML\WordToXML\WordToXML\obj\Debug\WordToXML.Form1.resources
+D:\mygit\Spire.Doc\WordToXML\WordToXML\WordToXML\obj\Debug\WordToXML.Properties.Resources.resources
+D:\mygit\Spire.Doc\WordToXML\WordToXML\WordToXML\obj\Debug\WordToXML.csproj.GenerateResource.Cache
+D:\mygit\Spire.Doc\WordToXML\WordToXML\WordToXML\obj\Debug\WordToXML.exe
+D:\mygit\Spire.Doc\WordToXML\WordToXML\WordToXML\obj\Debug\WordToXML.pdb
